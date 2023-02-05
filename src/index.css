@@ -1,0 +1,80 @@
+/* Colors */
+:root {
+  --primary-color: #ff0000;
+  --secondary-color: #ffa500;
+  --tertiary-color: #ffff00;
+  --success-color: #00ff00;
+  --info-color: #0000ff;
+  --warning-color: #4b0082;
+  --danger-color: #9400d3;
+  --light-color: #fff;
+  --dark-color: #333;
+  --error-color: #ff0000;
+}
+
+/*To center the title */
+.nav__brand {
+  text-align: center;
+  width: 100%;
+}
+
+/* To format the title */
+.nav__title {
+  font-size: 35px;
+  font-weight: bold;
+  margin: 0;
+}
+
+
+/* Body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(to right, var(--tertiary-color), var(--secondary-color), var(--primary-color), var(--success-color), var(--info-color), var(--warning-color), var(--danger-color));
+  color: var(--light-color);
+}
+
+/* Form */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Inputs */
+input {
+  margin: 10px 0;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: var(--dark-color);
+  color: var(--light-color);
+}
+
+/* Button */
+button {
+  margin: 10px 0;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: var(--primary-color);
+  color: var(--light-color);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Account of the form */
+#mintTo, #mintAmount {
+    width:80%;
+}
+
+/* Account of the form */
+#mintTo, #mintAmount {
+    width:80%;
+}
+
+/* Paragraph */
+p {
+  text-align: center;
+}
