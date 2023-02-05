@@ -129,15 +129,16 @@ function App() {
       <div>
             <div>
                 <a href="https://github.com/Joseph-DelGiorgio" target="_blank">
-                Github
+                <button>Github</button>
                 </a>
             </div>
             <div>
                 <a href="https://twitter.com/JoeDelGiorgio1" target="_blank">
-                Twitter
+                <button>Twitter</button>
                 </a>
             </div>
       </div>
+
 
 
       <div className='form'>
