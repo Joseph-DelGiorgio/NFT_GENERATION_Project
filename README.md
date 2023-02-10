@@ -38,3 +38,7 @@ more general solution for users to Mint NFTs, rather than having them go through
 pasting the hash. Here’s the link to the Dapp university Video and code:
 Video: https://youtu.be/myascjqPnFc 
 Code: https://github.com/dappuniversity/ai_nft_generator
+
+and so, I have now created a new version of this project, which is the code in this repository.
+
+Thanks for reading and checking it out!
