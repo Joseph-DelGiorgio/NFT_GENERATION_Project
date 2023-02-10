@@ -1,5 +1,10 @@
 # NFT_GENERATION_Project
 
+Project Demo video:
+
+https://www.loom.com/share/0d78e30a7a0943b396adbfa245f4c327
+
+
 Description/Problem this project solves:
 
 My project offers a stable and efficient platform for the creation of NFTs, providing users with the 
